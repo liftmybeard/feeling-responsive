@@ -43,9 +43,6 @@ urlimg: 'https://github.com/liftmybeard/liftmybeard.github.io/tree/master/images
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
-header:
-    image_fullwidth: "header_unsplash_12.jpg"
-
 
 
 # Paginates all X entries
