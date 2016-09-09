@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/test/"
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   image_fullwidth: "you-can-delete-me-header.png"
 ---
 
 - [Wufoo][1]
