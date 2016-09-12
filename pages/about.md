@@ -4,7 +4,7 @@ title: "About Me"
 meta_title: "Test It"
 subheadline: ""
 teaser: ""
-permalink: "/test/"
+permalink: "/about/"
 header:
    image_fullwidth: "you-can-delete-me-header.png"
 ---
