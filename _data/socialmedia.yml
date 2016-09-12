@@ -3,10 +3,10 @@
   class: icon-youtube
   title: "My YouTube Channel"
 
- - name: Facebook
-   url: http://www.facebook.com/liftmybeard
-   class: icon-facebook
-   title: "Facebook Page"
+- name: Facebook
+  url: http://www.facebook.com/liftmybeard
+  class: icon-facebook
+  title: "Facebook Page"
 
 - name: Instagram
   url: http://instagram.com/liftmybeard/
