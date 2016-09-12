@@ -17,7 +17,7 @@ Hi! My name is Michele Feltre and I'm 24 years old. I'm a full-time Software Eng
 # What is Lift My Beard?
 ------
 
-Lift My Beard is not just a YouTube channel or a Website: it is my very own project where I share content and information that I believe to be useful and educational for anyone who wants to learn more about weight and/or strength-oriented training. 
+Lift My Beard is not just a YouTube channel or a Website: it is my very own project where I share content and information that I believe to be useful and educational for anyone who wants to learn more about weight and/or strength-oriented training. I hope you will find the motivation and inspiration to improve each and every day.
 
 
 - [Wufoo][1]
