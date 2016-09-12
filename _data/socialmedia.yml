@@ -4,12 +4,12 @@
   title: "Say Hi!"
   
 - name: YouTube
-  url: http://www.youtube.com/UCN1LkjECeRHBfQPSlqnCwOw
+  url: http://youtube.com/UCN1LkjECeRHBfQPSlqnCwOw
   class: icon-youtube
   title: "Watch my videos on YouTube!"
 
 - name: Facebook
-  url: http://www.facebook.com/liftmybeard
+  url: http://facebook.com/liftmybeard
   class: icon-facebook
   title: "Check out my Facebook page!"
 
