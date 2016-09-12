@@ -9,6 +9,11 @@ header:
    image_fullwidth: "header_about_lmb.jpg"
 ---
 
+# About Me 
+------
+
+Hi! My name is Michele Feltre and I'm 24 years old.
+
 - [Wufoo][1]
 - [Google Forms][2]
 
