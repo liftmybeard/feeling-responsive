@@ -1,17 +1,22 @@
+- name: Mail
+  url: liftmybeard@gmail.com
+  class: icon-mail
+  title: "Say Hi!"
+  
 - name: YouTube
   url: http://www.youtube.com/UCN1LkjECeRHBfQPSlqnCwOw
   class: icon-youtube
-  title: "My YouTube Channel"
+  title: "Watch my videos on YouTube!"
 
 - name: Facebook
   url: http://www.facebook.com/liftmybeard
   class: icon-facebook
-  title: "Facebook Page"
+  title: "Check out my Facebook page!"
 
 - name: Instagram
   url: http://instagram.com/liftmybeard/
   class: icon-instagram
-  title: "Instagram Page"
+  title: "Hey, did you know I have instagram as well? :)"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/
