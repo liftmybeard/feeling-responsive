@@ -27,8 +27,8 @@
 #   Navigation to the right › side: right
 #
 
-- title: "Test"
-  url: "/test/"
+- title: "About"
+  url: "/about/"
   side: right
 
 - title: "Info"
