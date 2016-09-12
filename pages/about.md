@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Test"
+title: "About Me"
 meta_title: "Test It"
 subheadline: ""
 teaser: ""
