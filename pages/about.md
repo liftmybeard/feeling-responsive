@@ -9,7 +9,6 @@ header:
    image_fullwidth: "header_about_lmb.jpg"
 ---
 
-# About Me 
 ------
 
 Hi! My name is Michele Feltre and I'm 24 years old. I'm a full-time Software Engineer, but I also have another big passion: lifting heavy weights. :) For the past 4 years I've dedicated a lot of my time reading, understanding and applying the mechanics of sports such as Powerlifting and Strongman to my own training routine in order to become stronger, but also wiser.
@@ -17,7 +16,7 @@ Hi! My name is Michele Feltre and I'm 24 years old. I'm a full-time Software Eng
 # What is Lift My Beard?
 ------
 
-Lift My Beard is not just a YouTube channel or a Website: it is my very own project where I share content and information that I believe to be useful and educational for anyone who wants to learn more about weight and/or strength-oriented training. I hope you will find the motivation and inspiration to improve each and every day.
+Lift My Beard is not just a YouTube channel or a Website: it is my very own project where I share content and information that I believe to be useful and educational for anyone who wants to learn more about weight and/or strength-oriented training.
 
 
 - [Wufoo][1]
