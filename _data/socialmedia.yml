@@ -1,5 +1,5 @@
 - name: Mail
-  url: http://liftmybeard@gmail.com
+  url: mailto:liftmybeard@gmail.com
   class: icon-mail
   title: "Say Hi!"
   
