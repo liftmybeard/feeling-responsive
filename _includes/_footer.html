@@ -6,6 +6,27 @@
 
 
     <footer id="footer-content" class="bg-grau">
+        
+      <div id="subfooter">
+        <nav class="row">
+          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
+            <p>
+              Made with &hearts;
+              based on "Feeling Responsive" made by&nbsp;
+              <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a>
+            </p>
+          </section>
+
+          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
+            <ul class="inline-list">
+            {% for social_item in site.data.socialmedia %}
+              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+            {% endfor %}
+            </ul>
+          </section>
+        </nav>
+      </div><!-- /#subfooter -->
+        
       <div id="footer">
         <div class="row">
           <div class="medium-6 large-5 columns">
@@ -57,23 +78,5 @@
       </div><!-- /#footer -->
 
 
-      <div id="subfooter">
-        <nav class="row">
-          <section id="subfooter-left" class="b30 small-12 medium-6 columns credits">
-            <p>
-              Made with &hearts;
-              based on "Feeling Responsive" made by&nbsp;
-              <a href="http://phlow.de" alt="Theme created by Phlow">Phlow</a>
-            </p>
-          </section>
 
-          <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
-            <ul class="inline-list">
-            {% for social_item in site.data.socialmedia %}
-              <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-            </ul>
-          </section>
-        </nav>
-      </div><!-- /#subfooter -->
     </footer>
