@@ -31,10 +31,6 @@
   url: "/about/"
   side: right
 
-- title: "Info"
-  url: "/info/"
-  side: right
-
 - title: "Search"
   url: "/search/"
   side: right
