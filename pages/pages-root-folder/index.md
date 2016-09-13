@@ -11,7 +11,7 @@ widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'Learn more about muscle hypertrophy!'
 widget2:
   title: "Widget 2"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
