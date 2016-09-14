@@ -7,12 +7,15 @@
 
 - name: "RSS"
   url: "/feed.xml"
+  class: "icon-rss"
   title: "Subscribe to RSS Feed"
 
 - name: "Atom"
   url: "/atom.xml"
+  class: "icon-rss"
   title: "Subscribe to Atom Feed"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
+  class: "icon-magnifying-glass"
   title: "Sitemap for Google Webmaster Tools"
