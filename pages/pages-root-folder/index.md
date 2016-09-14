@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "header_about_lmb.jpg"
+  image_fullwidth: "header_about_lmb.jpeg"
 widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
