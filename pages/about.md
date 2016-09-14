@@ -5,7 +5,6 @@ meta_title: "Test It"
 subheadline: ""
 teaser: ""
 permalink: "/about/"
-header: no
 image: 
    title: "header_about_lmb.jpg"
 ---
