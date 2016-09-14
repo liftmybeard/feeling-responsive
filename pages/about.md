@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 permalink: "/about/"
 image: 
-   title: "header_about_lmb.jpg"
+   title: "aboutme.png"
 ---
 
 ------
