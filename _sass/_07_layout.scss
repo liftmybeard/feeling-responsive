@@ -305,7 +305,7 @@ body.video cite { color: #fff; }
             color: #fff;
         }
     }
-/*
+    
     #subfooter .social-icons li a {
         font-size: .625rem;
         display: block;
@@ -319,40 +319,6 @@ body.video cite { color: #fff; }
         background: $subfooter-bg;
         color: #A1D044;
     }
-
-*/
-
-    .social-icons li a {
-        font-size: rem-calc(10);
-        text-align: center;
-        color: $subfooter-color;
-        visibility: collapse;
-        width: 36px;
-        height: 36px;
-        &:hover {
-            color: #fff;
-            &:before {
-               color: #fff;
-               background: $subfooter-bg;
-            }
-        }
-        &:before {
-            font-size: rem-calc(23);
-            line-height: 1.5;
-            display: block;
-            visibility: visible;
-            width: 36px;
-            margin-left: auto;
-            margin-right: auto;
-            border-radius: 50%;
-            color: $subfooter-bg;
-            background: $subfooter-color;
-            text-shadow: none;
-        }
-        &:after {
-            display: none;
-        }
-}
 
 /* CSS-Classes to add margin at top or bottom
 ------------------------------------------------------------------- */
