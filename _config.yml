@@ -102,8 +102,8 @@ defaults:
     values:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: phlow     # Default author for pages
+      comments: true
+      author: Michele Feltre     # Default author for pages
   -
     scope:
       path: ""
@@ -111,8 +111,8 @@ defaults:
     values:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
-      comments: false
-      author: phlow     # Default author for posts
+      comments: true
+      author: Michele Feltre     # Default author for posts
 
 
 
