@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-subheadline: ""
+subheadline: "I often see people mistakenly thinking that building muscle mass means getting stronger. While this might seem logical at first, it's actually true only to some extent. You see, in the early stages of training, getting both bigger and stronger is an inevitable part of the process, making it apparently easy to think that they're proportional. The more you go on though, the more you'll come to realize that the two depend very little from one another. You can build mass without becoming noticeably any stronger just as much as you can get stronger without gaining a lot of weight."
 title: "Introduction to Strength Training"
 teaser: ""
 categories:
@@ -23,7 +23,6 @@ image:
   url: "http://phlow.de/"
 ---
 
-I often see people mistakenly thinking that building muscle mass means getting stronger. While this might seem logical at first, it's actually true only to some extent. You see, in the early stages of training, getting both bigger and stronger is an inevitable part of the process, making it apparently easy to think that they're proportional. The more you go on though, the more you'll come to realize that the two depend very little from one another. You can build mass without becoming noticeably any stronger just as much as you can get stronger without gaining a lot of weight.
 
 ##### So how is Strength training any different?
 
@@ -49,15 +48,3 @@ Remember, programs are made to be flexible. That's why I recommend taking it a s
 While this type of training might not be suited for everyone (due to the higher technical demand) I personally find it to be motivating, making me feel strong both in and out of the gym. Just make sure you know what you're doing, so take it lightly at first: injury is the greatest of all setbacks. With consistency, strength will build up very quickly.
 
 Now it's your turn, get out there and go have some fun! Thanks for reading, I hope this was helpful.
-
-
- [1]: #
- [2]: #
- [3]: #
- [4]: #
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
