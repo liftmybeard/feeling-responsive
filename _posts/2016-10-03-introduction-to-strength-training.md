@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "Strength Training"
+subheadline: ""
 title: "Introduction to Strength Training"
-teaser: "Want to get stronger?"
+teaser: ""
 categories:
   - Training
 tags:
