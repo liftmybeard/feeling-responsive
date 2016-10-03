@@ -3,9 +3,9 @@ layout: page
 #
 # Content
 #
-subheadline: "I often see people mistakenly thinking that building muscle mass means getting stronger. While this might seem logical at first, it's actually true only to some extent. You see, in the early stages of training, getting both bigger and stronger is an inevitable part of the process, making it apparently easy to think that they're proportional. The more you go on though, the more you'll come to realize that the two depend very little from one another. You can build mass without becoming noticeably any stronger just as much as you can get stronger without gaining a lot of weight."
+subheadline: ""
 title: "Introduction to Strength Training"
-teaser: ""
+teaser: "I often see people mistakenly thinking that building muscle mass means getting stronger. While this might seem logical at first, it's actually true only to some extent. You see, in the early stages of training, getting both bigger and stronger is an inevitable part of the process, making it apparently easy to think that they're proportional. The more you go on though, the more you'll come to realize that the two depend very little from one another. You can build mass without becoming noticeably any stronger just as much as you can get stronger without gaining a lot of weight."
 categories:
   - Training
 tags:
