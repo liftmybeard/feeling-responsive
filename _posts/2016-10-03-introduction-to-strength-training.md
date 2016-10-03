@@ -4,12 +4,14 @@ layout: page
 # Content
 #
 subheadline: "Strength Training"
-title: "Introduction to..."
+title: "Introduction to Strength Training"
 teaser: "Want to get stronger?"
 categories:
   - Training
 tags:
+  - Strength
   - Training
+  - Programming
 #
 # Styling
 #
