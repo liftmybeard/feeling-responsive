@@ -9,7 +9,7 @@ header:
   image_fullwidth: "header_about_lmb.jpg"
 widget1:
   title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: 'Learn more about muscle hypertrophy!'
 widget2:
