@@ -16,7 +16,7 @@ widget2:
   title: "YouTube"
   url: 'https://www.youtube.com/channel/UCN1LkjECeRHBfQPSlqnCwOw'
   image: 'http://i.imgur.com/LnXcZ34.png'
-  text: 'Follow my YouTube channel for more content and lots of information!'
+  text: 'Check out my YouTube channel for more content and lots of information!'
 widget3:
   title: "Widget 3"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
