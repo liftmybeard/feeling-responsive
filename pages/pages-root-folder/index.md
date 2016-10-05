@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: "header_about_lmb.jpg"
 widget1:
-  title: "Widget 1"
+  title: "Getting Started"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Learn more about muscle hypertrophy!'
+  text: 'So what's this all about? Get started here!'
 widget2:
   title: "YouTube"
   url: 'https://www.youtube.com/channel/UCN1LkjECeRHBfQPSlqnCwOw'
