@@ -9,8 +9,8 @@ header:
   image_fullwidth: "header_about_lmb.jpg"
 widget1:
   title: "Getting Started"
-#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
+  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: 'http://i.imgur.com/fLfa4w5.png'
   text: 'So what is this all about? Get started from here.'
 widget2:
   title: "YouTube"
