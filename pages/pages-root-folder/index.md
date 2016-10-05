@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Getting Started"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://i.imgur.com/fLfa4w5.png'
+  image: 'http://i.imgur.com/dl8mbVg.png'
   text: 'So what is this all about? Get started from here.'
 widget2:
   title: "YouTube"
