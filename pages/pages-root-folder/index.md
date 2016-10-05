@@ -11,7 +11,7 @@ widget1:
   title: "Getting Started"
 #  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'So what's this all about? Get started here!'
+  text: 'Learn More'
 widget2:
   title: "YouTube"
   url: 'https://www.youtube.com/channel/UCN1LkjECeRHBfQPSlqnCwOw'
