@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "More content"
   url: 'https://www.youtube.com/channel/UCN1LkjECeRHBfQPSlqnCwOw'
-  image: 'http://imgur.com/LnXcZ34'
+  image: 'http://i.imgur.com/LnXcZ34.png'
   text: 'Check out my videos on my YouTube channel! Lots of information and much more!'
 widget3:
   title: "Widget 3"
