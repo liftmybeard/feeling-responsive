@@ -13,10 +13,10 @@ widget1:
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
   text: 'Learn more about muscle hypertrophy!'
 widget2:
-  title: "More content"
+  title: "YouTube"
   url: 'https://www.youtube.com/channel/UCN1LkjECeRHBfQPSlqnCwOw'
   image: 'http://i.imgur.com/LnXcZ34.png'
-  text: 'Check out my videos on my YouTube channel! Lots of information and much more!'
+  text: 'Follow my YouTube channel for more content and lots of information!'
 widget3:
   title: "Widget 3"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
