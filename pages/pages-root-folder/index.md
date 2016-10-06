@@ -18,10 +18,10 @@ widget2:
   image: 'http://i.imgur.com/LnXcZ34.png'
   text: 'Check out my YouTube channel for more content and lots of information!'
 widget3:
-  title: "Widget 3"
+  title: "My Future Goals"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  text: 'Sometimes it's good to write down your goals in order to visualize them. Here's mine!'
 #
 # Use the call for action to show a button on the frontpage
 #
