@@ -21,7 +21,7 @@ widget3:
   title: "My Future Goals"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
   image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: 'Sometimes it's good to write down your goals in order to visualize them. Here's mine!'
+  text: 'Sometimes you need to write down your goals in order to visualize them. Here are mine!'
 #
 # Use the call for action to show a button on the frontpage
 #
